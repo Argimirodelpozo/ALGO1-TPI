@@ -39,6 +39,7 @@ tiempo tiempoTotal(viaje v) {
 /************++*********************** EJERCICIO distanciaTotal ************++*********************/
 distancia distanciaTotal(viaje v) {
 
+    abcdefghijk
 }
 
 /***************************************** EJERCICIO flota ***************************************/
